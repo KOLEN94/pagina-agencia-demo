@@ -1,0 +1,14 @@
+ScrollReveal().reveal('.titulohero',{ delay:500});
+ScrollReveal().reveal('.tituloportafolio',{ delay:500});
+ScrollReveal().reveal('.cuerpohero', { delay: 700 });
+ScrollReveal().reveal('.titulo03', { delay: 500 });
+ScrollReveal().reveal('.cuerponosotros', { delay: 700 });
+ScrollReveal().reveal('.seccion-integrantes', { delay: 800 });
+ScrollReveal().reveal('.cuerpoportafolio', { delay: 700 });
+ScrollReveal().reveal('.titulo04', { delay: 500 });
+ScrollReveal().reveal('.cuerpoprecio', { delay: 600 });
+ScrollReveal().reveal('.cuerpotestimonios', { delay: 600 });
+ScrollReveal().reveal('.carousel', { delay: 700 });
+ScrollReveal().reveal('.col-md-6', { delay: 800 });
+ScrollReveal().reveal('.texto-bajo', { delay: 400 });
+ScrollReveal().reveal('.boton01', { delay: 900 });
